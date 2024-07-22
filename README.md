@@ -19,8 +19,11 @@ You can install the necessary packages using pip:```pip install nltk```
 How to Run:
 
 1 Clone this repository:```git clone https://github.com/yourusername/your-repo-name.git```.
+
  2 Navigate to the project directory: ```cd your-repo-name```.
+ 
 3 Run the GUI script: ```python gui.py```.
+
 Files
 
     gui.py: The main script for the GUI.
